@@ -1,0 +1,28 @@
+.escalation {
+  display: flex;
+  flex-direction: column;
+}
+
+.player {
+  margin: 1rem;
+}
+
+.playersAttack {
+  display: flex;
+  justify-content: space-around;
+}
+
+.playersMidfield {
+  display: flex;
+  justify-content: space-around;
+}
+
+.playersDefense {
+  display: flex;
+  justify-content: space-around;
+}
+
+.goalkeeper {
+  display: flex;
+  justify-content: space-around;
+}

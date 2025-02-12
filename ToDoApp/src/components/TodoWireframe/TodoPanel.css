@@ -1,0 +1,9 @@
+.todoPanel {
+  position: fixed;
+  bottom: 0%;
+  right: 0%;
+  height: 91.5vh;
+  z-index: 500;
+
+  background-color: #1d1d1d;
+}

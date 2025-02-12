@@ -1,0 +1,10 @@
+.header {
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  height: 8.5vh;
+  width: 100vw;
+  z-index: 900;
+
+  background-color: rgb(30, 0, 38);
+}

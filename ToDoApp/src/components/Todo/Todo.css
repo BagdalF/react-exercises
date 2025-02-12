@@ -1,0 +1,22 @@
+.todoItem {
+  width: 60vw;
+  height: 3rem;
+  margin: 1rem 0;
+  padding: 0 1rem;
+  display: flex;
+
+  align-items: center;
+
+  border-radius: 1rem;
+  box-shadow: inset 0px 1px 15px #555555;
+
+  text-align: justify;
+}
+
+.todoItem h1 {
+  margin: 0rem auto 0rem 1rem;
+}
+
+.todoItem input {
+  margin: 0;
+}
