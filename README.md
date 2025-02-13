@@ -1,8 +1,8 @@
-# BagdalF's E-commerce Project
+# BagdalF's React Exercises
 
 ## About the Project
 
-An E-commerce full stack project which manages users, orders, products (and it's categories) on the application, with features as search filters, admin management, user tokenization and more. Started at October 2024.
+A collection of react exercises i did from December 2024 and January 2025, which i used more techniques i has been learning, like design patterns and solid principles, as well as Typescript. 
 
 ## Technologies Used
 
